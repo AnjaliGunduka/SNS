@@ -1,0 +1,6 @@
+D:\Aws-Practice\springboot-email-notification-service\src\main\java\com\sns\email\config\AwsProperties.java
+D:\Aws-Practice\springboot-email-notification-service\src\main\java\com\sns\email\SpringbootEmailNotificationApplication.java
+D:\Aws-Practice\springboot-email-notification-service\src\main\java\com\sns\email\service\EmailService.java
+D:\Aws-Practice\springboot-email-notification-service\src\main\java\com\sns\email\config\AWSNSConfig.java
+D:\Aws-Practice\springboot-email-notification-service\src\main\java\com\sns\email\controller\EmailController.java
+D:\Aws-Practice\springboot-email-notification-service\src\main\java\com\sns\email\model\EmailData.java
